@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "multiplesOfANum"
+		},
+		{
+			"path": "coinSimulationWithCount"
+		},
+		{
+			"path": "top2studentSelector"
+		},
+		{
+			"path": "bestStudent"
+		},
+		{
+			"path": "eversingDigit"
+		},
+		{
+			"path": "game_lottery"
+		}
+	],
+	"settings": {}
+}
