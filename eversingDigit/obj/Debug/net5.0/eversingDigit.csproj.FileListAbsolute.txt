@@ -1,0 +1,16 @@
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.csproj.AssemblyReference.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.AssemblyInfoInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.AssemblyInfo.cs
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.csproj.CoreCompileInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\bin\Debug\net5.0\eversingDigit.exe
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\bin\Debug\net5.0\eversingDigit.deps.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\bin\Debug\net5.0\eversingDigit.runtimeconfig.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\bin\Debug\net5.0\eversingDigit.runtimeconfig.dev.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\bin\Debug\net5.0\eversingDigit.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\bin\Debug\net5.0\ref\eversingDigit.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\bin\Debug\net5.0\eversingDigit.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\ref\eversingDigit.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\eversingDigit\obj\Debug\net5.0\eversingDigit.genruntimeconfig.cache

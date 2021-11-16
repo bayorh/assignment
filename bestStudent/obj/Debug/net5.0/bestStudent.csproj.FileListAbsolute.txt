@@ -1,0 +1,16 @@
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.csproj.AssemblyReference.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.AssemblyInfoInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.AssemblyInfo.cs
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.csproj.CoreCompileInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\bin\Debug\net5.0\bestStudent.exe
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\bin\Debug\net5.0\bestStudent.deps.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\bin\Debug\net5.0\bestStudent.runtimeconfig.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\bin\Debug\net5.0\bestStudent.runtimeconfig.dev.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\bin\Debug\net5.0\bestStudent.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\bin\Debug\net5.0\ref\bestStudent.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\bin\Debug\net5.0\bestStudent.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\ref\bestStudent.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\bestStudent\obj\Debug\net5.0\bestStudent.genruntimeconfig.cache

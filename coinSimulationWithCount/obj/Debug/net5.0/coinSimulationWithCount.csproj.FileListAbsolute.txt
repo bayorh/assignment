@@ -1,0 +1,16 @@
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.csproj.AssemblyReference.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.AssemblyInfoInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.AssemblyInfo.cs
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.csproj.CoreCompileInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\bin\Debug\net5.0\coinSimulationWithCount.exe
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\bin\Debug\net5.0\coinSimulationWithCount.deps.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\bin\Debug\net5.0\coinSimulationWithCount.runtimeconfig.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\bin\Debug\net5.0\coinSimulationWithCount.runtimeconfig.dev.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\bin\Debug\net5.0\coinSimulationWithCount.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\bin\Debug\net5.0\ref\coinSimulationWithCount.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\bin\Debug\net5.0\coinSimulationWithCount.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\ref\coinSimulationWithCount.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\coinSimulationWithCount\obj\Debug\net5.0\coinSimulationWithCount.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.csproj.AssemblyReference.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.AssemblyInfoInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.AssemblyInfo.cs
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.csproj.CoreCompileInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\bin\Debug\net5.0\game_lottery.exe
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\bin\Debug\net5.0\game_lottery.deps.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\bin\Debug\net5.0\game_lottery.runtimeconfig.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\bin\Debug\net5.0\game_lottery.runtimeconfig.dev.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\bin\Debug\net5.0\game_lottery.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\bin\Debug\net5.0\ref\game_lottery.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\bin\Debug\net5.0\game_lottery.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\ref\game_lottery.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\game_lottery\obj\Debug\net5.0\game_lottery.genruntimeconfig.cache

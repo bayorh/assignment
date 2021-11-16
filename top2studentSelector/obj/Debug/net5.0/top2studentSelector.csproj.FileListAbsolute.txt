@@ -1,0 +1,16 @@
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.csproj.AssemblyReference.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.AssemblyInfoInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.AssemblyInfo.cs
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.csproj.CoreCompileInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\bin\Debug\net5.0\top2studentSelector.exe
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\bin\Debug\net5.0\top2studentSelector.deps.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\bin\Debug\net5.0\top2studentSelector.runtimeconfig.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\bin\Debug\net5.0\top2studentSelector.runtimeconfig.dev.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\bin\Debug\net5.0\top2studentSelector.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\bin\Debug\net5.0\ref\top2studentSelector.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\bin\Debug\net5.0\top2studentSelector.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\ref\top2studentSelector.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\top2studentSelector\obj\Debug\net5.0\top2studentSelector.genruntimeconfig.cache
