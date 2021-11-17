@@ -1,0 +1,16 @@
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.csproj.AssemblyReference.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.AssemblyInfoInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.AssemblyInfo.cs
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.csproj.CoreCompileInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\bin\Debug\net5.0\ques13.exe
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\bin\Debug\net5.0\ques13.deps.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\bin\Debug\net5.0\ques13.runtimeconfig.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\bin\Debug\net5.0\ques13.runtimeconfig.dev.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\bin\Debug\net5.0\ques13.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\bin\Debug\net5.0\ref\ques13.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\bin\Debug\net5.0\ques13.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ref\ques13.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques13\obj\Debug\net5.0\ques13.genruntimeconfig.cache

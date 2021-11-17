@@ -1,0 +1,16 @@
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\bin\Debug\net5.0\ques12.exe
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\bin\Debug\net5.0\ques12.deps.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\bin\Debug\net5.0\ques12.runtimeconfig.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\bin\Debug\net5.0\ques12.runtimeconfig.dev.json
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\bin\Debug\net5.0\ques12.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\bin\Debug\net5.0\ref\ques12.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\bin\Debug\net5.0\ques12.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.csproj.AssemblyReference.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.AssemblyInfoInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.AssemblyInfo.cs
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.csproj.CoreCompileInputs.cache
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ref\ques12.dll
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.pdb
+C:\Users\TEE TECH\Desktop\CLH\assignment\chapter_6\ques12\obj\Debug\net5.0\ques12.genruntimeconfig.cache
