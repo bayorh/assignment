@@ -11,15 +11,17 @@ namespace ques13
             string Base2 = Console.ReadLine();
             char[] myChar = Base2.ToCharArray();
             double number = 0;
-            int item;
-            while (item!=0)
+            for (int i = 0; i < myChar.Length; i++)
             {
-                  foreach ( var item in myChar)
-            {
-                Console.WriteLine("nuber to base 10 is : "+ item);
-                
-            }
-                 number += Math.Pow(2, myChar.Length - (i + 1));
+                if (myChar[i] == 1)
+                {
+                    number += Math.Pow(2, myChar.Length - (i + 1));
+                }
+                else
+                {
+                    continue;
+                }
+
             }
             Console.WriteLine("nuber to base 10 is : "+ number);
         }
